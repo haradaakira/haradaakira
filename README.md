@@ -1,4 +1,4 @@
-# Software Engineer | Backend & API Development | FinTech
+# Software Engineer | Backend & API Development | Fintech
 
 Hello! 
 
