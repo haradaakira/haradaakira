@@ -6,7 +6,7 @@ I'm a Software Engineer with over 5 years of experience building backend systems
 
 ---
 
-## Mastercard Project Experience
+## Project Experience
 
 I worked on a core payment platform for Mastercard, where I helped design and support microservice-based backend systems handling high-volume financial transactions.  
 My responsibilities included building scalable APIs, integrating with enterprise services, and ensuring compliance with industry standards such as EMVCo and PCI DSS.
