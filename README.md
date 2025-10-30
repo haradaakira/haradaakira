@@ -1,4 +1,4 @@
-# Backend Software Engineer | Fintech
+# Software Engineer | Fintech
 
 Hello! 
 
