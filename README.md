@@ -50,7 +50,7 @@ My responsibilities included building scalable APIs, integrating with enterprise
 ## What I Work On
 
 - **Backend Development:** Building and maintaining web applications and microservices with Java and Spring Boot, using Maven for project builds.  
-- **Data and Messaging:** Connecting services to Oracle and Postgres with Hibernate, integrating Redis for caching, and working with Axon and Kafka for event-driven communication.  
+- **Data and Messaging:** Connecting services to Oracle and Postgres with Hibernate, integrating Redis for caching, and working with Axon (Similar to Kafka) for event-driven communication.  
 - **Deployment and Operations:** Planning and executing CI/CD pipelines using Jenkins and Linux, deploying services on Pivotal Cloud Foundry (PCF) with a focus on reliability and uptime.  
 - **Team Collaboration:** Working in Agile and SAFe environments with Scrum and Kanban, conducting code reviews, writing documentation, and supporting teammates through knowledge sharing and training.  
 - **Production Support:** Troubleshooting issues from production reports, implementing fixes, and delivering continuous improvements to ensure smooth system operation.
